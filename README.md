@@ -17,4 +17,4 @@
 [![C#](https://img.shields.io/badge/Csharp-000?logo=C#&logoColor=white&link=https://docs.microsoft.com/ru-ru/dotnet/csharp/&style=for-the-badge)](https://docs.microsoft.com/ru-ru/dotnet/csharp)
 [![C++](https://img.shields.io/badge/C++-000?logo=C#&logoColor=white&link=https://docs.microsoft.com/ru-ru/cpp/cpp/?view=vs-2019&style=for-the-badge)](https://docs.microsoft.com/ru-ru/cpp/cpp/?view=vs-2019)
 
-[![GooodGamee's github stats](https://github-readme-stats.vercel.app/api?username=GooodGamee)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GooodGamee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GooodGamee's github stats](https://github-readme-stats.vercel.app/api?username=GooodGamee&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GooodGamee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
