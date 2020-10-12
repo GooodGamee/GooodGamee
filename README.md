@@ -14,7 +14,7 @@
 [![Python](https://img.shields.io/badge/Python---?logo=python&style=for-the-badge&color=9cf)](https://python.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/&style=for-the-badge)](https://www.ecma-international.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
-[![C#](https://img.shields.io/badge/Csharp--339933?logo=Csharp&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
+[![C#](https://img.shields.io/badge/Csharp?logo=Csharp&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
 [![C++](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
 
 
