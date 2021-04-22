@@ -2,7 +2,7 @@
 
 👥 **Сошиалс**
 
-[![Discord](https://img.shields.io/badge/GooodGame%236666---?logo=discord&style=for-the-badge&color=99AAB5)](https://discord.com)
+[![Discord](https://img.shields.io/badge/GooodGame%237526---?logo=discord&style=for-the-badge&color=99AAB5)](https://discord.com)
 
 ---
 
