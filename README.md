@@ -1,12 +1,12 @@
 ---
 
-👥 **Сошиалс**
+👥 **Socials**
 
 [![Discord](https://img.shields.io/badge/GooodGame%239291---?logo=discord&style=for-the-badge&color=99AAB5)](https://discord.com)
 
 ---
 
-:zap: **Рабочий стэк** :zap:
+:zap: **Working Stack** :zap:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.javascript.com/&style=for-the-badge)](https://www.javascript.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
